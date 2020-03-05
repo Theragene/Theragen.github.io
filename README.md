@@ -1,27 +1,22 @@
 ## Corona virus Data & Information share space
 
-You can use the [editor on GitHub](https://github.com/Theragene/theragen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Theragenetex Bio Institute NCOV TF team
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data information
 
-### Markdown
+[서열데이터]
+GenBank : 367개 (sequence_367.fasta)
+GSAID: 한국인데이터 9개 (Cov_Korean 2.zip)
+합계: 376개
+2020년 3월 5일 기준
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+문의 : 빅데이터2팀 정성훈
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
 - List
+### Nextstrain
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+상기 내용은 테라젠 내부 네트워크망에서만 접속이 가능합니다.
+http://182.162.88.161:4000
 
 [Link](url) and ![Image](src)
 ```
