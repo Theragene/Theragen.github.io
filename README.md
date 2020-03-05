@@ -15,21 +15,29 @@ GSAID: 한국인데이터 9개 (Cov_Korean 2.zip)
 
 문의 : 빅데이터2팀 정성훈
 
-- List
+
 ### Nextstrain
 
 상기 내용은 테라젠 내부 네트워크망에서만 접속이 가능합니다.
 http://182.162.88.161:4000
 
-[Link](url) and ![Image](src)
-```
+### Reference
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30251-8/fulltext
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Theragene/theragen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://www.nature.com/articles/s41586-020-2012-7
 
-### Support or Contact
+http://virological.org/t/the-proximal-origin-of-sars-cov-2/398
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://jvi.asm.org/content/early/2020/01/23/JVI.00127-20
+
+https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25688
+
+https://www.sciencedirect.com/science/article/pii/S1567134820300447?via%3Dihub
+
+https://journals.lww.com/cmj/Abstract/publishahead/Identification_of_a_novel_coronavirus_causing.99423.aspx
+
+https://www.nejm.org/doi/10.1056/NEJMoa2001017
+
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext?fbclid=IwAR1LK5dySlHMZrOyoIPge0rbamXFr2DsqxBa2mlct1zyg8xm3nwf1_Be64c#back-bib12
