@@ -6,8 +6,11 @@ Theragenetex Bio Institute NCOV TF team
 
 [서열데이터]
 GenBank : 367개 (sequence_367.fasta)
+
 GSAID: 한국인데이터 9개 (Cov_Korean 2.zip)
+
 합계: 376개
+
 2020년 3월 5일 기준
 
 문의 : 빅데이터2팀 정성훈
