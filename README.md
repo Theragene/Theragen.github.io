@@ -5,9 +5,10 @@ Theragenetex Bio Institute NCOV TF team
 ### Data information
 
 [서열데이터]
+
 GenBank : 367개 (sequence_367.fasta)
 
-GSAID: 한국인데이터 9개 (Cov_Korean 2.zip)
+GSAID: 한국인 13개 샘플
 
 합계: 376개
 
